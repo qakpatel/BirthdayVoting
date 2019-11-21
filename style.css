@@ -1,0 +1,15 @@
+body{
+    
+    background-image: url('./birthday1.jpg'), url('./tom.jpg');
+    background-repeat: no-repeat, repeat;
+    background-position: center 250px;
+    background-color: rgb(68, 67, 71);
+}
+.rowClass{
+    margin-block-start: 5%;
+    background-color: rgb(83, 99, 187);
+}
+.rowClass1{
+    margin-block-start: 5%;
+    background-color: rgb(156, 165, 76);
+}
